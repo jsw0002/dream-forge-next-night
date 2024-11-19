@@ -109,7 +109,7 @@ import BlogCategory from "BlogCategory.js";
 import BlogPost from "BlogPost.js";
 import ThankYouPage from "ThankYouPage.js";
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 export default function App() {
   // If you want to disable the animation just use the disabled `prop` like below on your page's component
@@ -118,7 +118,7 @@ export default function App() {
   return (
     <>
       <GlobalStyles />
-      <Router>
+      <BrowserRouter basename="/dream-forge-next-night">
         <Routes>
           <Route
             path="/components/:type/:subtype/:name"
@@ -135,7 +135,7 @@ export default function App() {
           <Route path="/blog/:slug" element={<BlogPost />} />
           <Route path="/test" element={<MainLandingPage />} />
         </Routes>
-      </Router>
+      </BrowserRouter>
     </>
   );
 }

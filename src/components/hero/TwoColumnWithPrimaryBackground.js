@@ -59,7 +59,7 @@ export default ({
   );
   const navLinks = [
     <NavLinks key={1}>
-      <NavLink href="/blog">Blog</NavLink>
+      <NavLink to="/blog">Blog</NavLink>
       <NavLink href="#">Stories</NavLink>
       <NavLink href="#">Login</NavLink>
       <PrimaryLink href="#">Signup</PrimaryLink>
