@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dream-forge-next-night/static/css/main.c61fe05b.css",
-    "main.js": "/dream-forge-next-night/static/js/main.6455a7ee.js",
+    "main.js": "/dream-forge-next-night/static/js/main.f6040273.js",
     "static/media/MainLandingPageHero.png": "/dream-forge-next-night/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/dream-forge-hero.png": "/dream-forge-next-night/static/media/dream-forge-hero.e8016967b3c35abfbbc0.png",
     "static/media/AgencyLandingPage.jpeg": "/dream-forge-next-night/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
@@ -93,10 +93,10 @@
     "static/media/arrow-right-3-icon.svg": "/dream-forge-next-night/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "static/media/handle-icon.svg": "/dream-forge-next-night/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.c61fe05b.css.map": "/dream-forge-next-night/static/css/main.c61fe05b.css.map",
-    "main.6455a7ee.js.map": "/dream-forge-next-night/static/js/main.6455a7ee.js.map"
+    "main.f6040273.js.map": "/dream-forge-next-night/static/js/main.f6040273.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.6455a7ee.js"
+    "static/js/main.f6040273.js"
   ]
 }
